@@ -10,7 +10,7 @@ const config = {
   header: {
     logo: './images/ose_logo_white.png',
     logoLink: '/',
-    title: 'OSE SRD',
+    title: 'Mythras Imperative',
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
@@ -26,29 +26,22 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/personagens',
-      '/classes',
-      '/equipamentos',
-      '/magias',
-      '/jogando-jogo',
-      '/monstros',
-      '/mestrando-aventuras',
-      '/tesouros',
+      
       //'/introduction', // add trailing slash if enabled above
 
     ],
     collapsedNav: [
       //'/personagens', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Old School Essentials SRD', link: 'https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page' }],
+    links: [{ text: 'Mythras Imperative', link: '#' }],
     frontline: false,
     ignoreIndex: true,
     title:
       "",
   },
   siteMetadata: {
-    title: 'OSE SRD',
-    description: 'Tradução do Old School Essentials SRD ',
+    title: 'Mythras Imperative',
+    description: 'Documento do Mythras Imperative ',
     ogImage: null,
     docsLocation: '',
     favicon: null,

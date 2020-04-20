@@ -78,7 +78,7 @@ export const baseStyles = injectGlobal`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    background-color: #6198B3;
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -259,7 +259,7 @@ export const baseStyles = injectGlobal`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #6198B3;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;

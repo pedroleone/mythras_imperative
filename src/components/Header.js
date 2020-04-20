@@ -103,12 +103,8 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
               <Link to={finalLogoLink_} className={'navBarBrand'}>
                 <img
                   className={'img-responsive displayInline'}
-                  src={logoImg_}
+                  src={'https://i.imgur.com/O1vs1gL.png'}
                   alt={'logo'}
-                />
-                <img
-                className={'img-responsive displayInline'}
-                src={'https://i.imgur.com/O1vs1gL.png'}
                 />
               </Link>
               <div
